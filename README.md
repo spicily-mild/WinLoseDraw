@@ -1,2 +1,2 @@
 # WinLoseDraw
-The Odin Project Rcok Paper Scissors game
+The Odin Project Rock Paper Scissors game
